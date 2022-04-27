@@ -1,0 +1,19 @@
+{
+  "name": "only-bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioLucio08/only-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonioLucio08/only-bootstrap/issues"
+  },
+  "homepage": "https://github.com/AntonioLucio08/only-bootstrap#readme",
+  "description": ""
+}
